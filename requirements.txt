@@ -1,0 +1,4 @@
+pocketsphinx>=5.0.4
+pyserial>=3.5
+requests>=2.32.0
+
